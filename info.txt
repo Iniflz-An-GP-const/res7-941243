@@ -1,0 +1,5 @@
+vApp name: Res7
+Bundle: gnrco.res7.mobile
+
+Keystore password: LpV7JrN3xF964QsT
+Key password: LpV7JrN3xF964QsT
