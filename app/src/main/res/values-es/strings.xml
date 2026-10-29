@@ -1,0 +1,65 @@
+<resources>
+    <string name="back_icon_description">Volver</string>
+    <string name="gceoe_app_logo_description">Logotipo de la aplicación</string>
+    <string name="gceoe_main_menu_tagline">Empareja todas las cartas</string>
+    <string name="main_menu_play">Empezar</string>
+    <string name="main_menu_high_scores">Mejores marcas</string>
+    <string name="main_menu_about">Información</string>
+    <string name="main_menu_exit">Salir</string>
+    <string name="menu_start_summary_format">%1$s · tablero de %2$d cartas</string>
+    <string name="menu_scores_moves_label">Turnos</string>
+    <string name="menu_scores_time_label">Duración</string>
+    <string name="menu_scores_empty">Termina una partida para batir un récord</string>
+    <string name="menu_about_subtitle">Información y reglas</string>
+    <string name="menu_exit_subtitle">Salir de la aplicación</string>
+    <string name="menu_previous_difficulty">Menor dificultad</string>
+    <string name="menu_next_difficulty">Mayor dificultad</string>
+    <string name="gceoe_difficulty_title">Elegir dificultad</string>
+    <string name="difficulty_easy">Fácil</string>
+    <string name="difficulty_medium">Medio</string>
+    <string name="difficulty_hard">Difícil</string>
+    <string name="difficulty_pairs_format">Parejas: %1$d</string>
+    <string name="difficulty_cards_pairs_format">%1$d cartas · %2$d parejas iguales</string>
+    <string name="game_moves_format">Turnos: %1$d</string>
+    <string name="game_preview_format">Memoriza: %1$d</string>
+    <string name="game_playing_hint">Empareja las cartas</string>
+    <string name="game_best_none">Récord: –</string>
+    <string name="game_best_format">Récord: %1$d turnos · %2$s</string>
+    <string name="game_time_format">Transcurrido: %1$s</string>
+    <string name="game_hud_moves_label">Turnos</string>
+    <string name="game_hud_time_label">Tiempo</string>
+    <string name="game_hud_pairs_label">Parejas</string>
+    <string name="game_hud_pairs_format">%1$d de %2$d</string>
+    <string name="game_hud_minimal_format">%1$d turnos · %2$s</string>
+    <string name="game_finished_title">¡Todo emparejado!</string>
+    <string name="game_finished_moves_format">Turnos: %1$d</string>
+    <string name="game_finished_time_format">Completado en %1$s</string>
+    <string name="game_finished_new_record_format">¡Nuevo récord: %1$s!</string>
+    <string name="game_play_again">Repetir</string>
+    <string name="game_main_menu">Menú principal</string>
+    <string name="dialog_exit_title">¿Salir de la partida?</string>
+    <string name="dialog_exit_message">Perderás la partida sin terminar.</string>
+    <string name="dialog_action_confirm">Salir</string>
+    <string name="dialog_action_cancel">Seguir jugando</string>
+    <string name="gceoe_high_scores_title">Mejores marcas</string>
+    <string name="high_scores_empty">No hay marcas guardadas</string>
+    <string name="high_scores_filter_moves">Menos turnos</string>
+    <string name="high_scores_filter_time">Más rápido</string>
+    <string name="high_scores_filter_date">Recientes</string>
+    <string name="high_score_card_score_format">%1$d turnos · %2$s</string>
+    <string name="high_score_card_rank_format">Puesto %1$d</string>
+    <string name="high_score_card_moves_label">Turnos</string>
+    <string name="high_score_card_time_label">Duración</string>
+    <string name="high_score_card_date_label">Jugado</string>
+    <string name="gceoe_about_title">Información</string>
+    <string name="about_rules_title">Guía de juego</string>
+    <string name="about_version_format">Versión %1$s</string>
+    <string name="about_developer_label">Creado por</string>
+    <string name="about_contact_label">Contacto</string>
+    <string-array name="about_rules">
+        <item>Durante unos segundos, todas las cartas están boca arriba: memoriza cada posición.</item>
+        <item>Después, todas se ocultan. Toca una carta para mostrarla.</item>
+        <item>Busca la otra carta que coincida con la que has mostrado.</item>
+        <item>Elige una dificultad: los niveles más difíciles ponen más cartas en el tablero.</item>
+    </string-array>
+</resources>

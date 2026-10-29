@@ -1,0 +1,65 @@
+<resources>
+    <string name="back_icon_description">رجوع</string>
+    <string name="gceoe_app_logo_description">شعار التطبيق</string>
+    <string name="gceoe_main_menu_tagline">طابق كل الأزواج</string>
+    <string name="main_menu_play">ابدأ</string>
+    <string name="main_menu_high_scores">أفضل النتائج</string>
+    <string name="main_menu_about">معلومات اللعبة</string>
+    <string name="main_menu_exit">خروج</string>
+    <string name="menu_start_summary_format">لوحة ‎%1$s · %2$d‎ بطاقة</string>
+    <string name="menu_scores_moves_label">الحركات</string>
+    <string name="menu_scores_time_label">المدة</string>
+    <string name="menu_scores_empty">أكمل لعبة لتسجيل رقم قياسي</string>
+    <string name="menu_about_subtitle">المعلومات والقواعد</string>
+    <string name="menu_exit_subtitle">الخروج من التطبيق</string>
+    <string name="menu_previous_difficulty">صعوبة أقل</string>
+    <string name="menu_next_difficulty">صعوبة أكبر</string>
+    <string name="gceoe_difficulty_title">اختر الصعوبة</string>
+    <string name="difficulty_easy">سهل</string>
+    <string name="difficulty_medium">متوسط</string>
+    <string name="difficulty_hard">صعب</string>
+    <string name="difficulty_pairs_format">الأزواج: ‎%1$d‎</string>
+    <string name="difficulty_cards_pairs_format">‎%1$d · %2$d‎ بطاقات وأزواج متطابقة</string>
+    <string name="game_moves_format">الحركات: ‎%1$d‎</string>
+    <string name="game_preview_format">تذكر: ‎%1$d‎</string>
+    <string name="game_playing_hint">طابق الأزواج</string>
+    <string name="game_best_none">الرقم القياسي: –</string>
+    <string name="game_best_format">الرقم القياسي: ‎%1$d · %2$s‎</string>
+    <string name="game_time_format">الوقت المنقضي: ‎%1$s‎</string>
+    <string name="game_hud_moves_label">الحركات</string>
+    <string name="game_hud_time_label">الوقت</string>
+    <string name="game_hud_pairs_label">الأزواج</string>
+    <string name="game_hud_pairs_format">‎%1$d من %2$d‎</string>
+    <string name="game_hud_minimal_format">‎%1$d · %2$s‎ حركة</string>
+    <string name="game_finished_title">تطابقت كلها!</string>
+    <string name="game_finished_moves_format">الحركات: ‎%1$d‎</string>
+    <string name="game_finished_time_format">اكتملت في ‎%1$s‎</string>
+    <string name="game_finished_new_record_format">رقم قياسي جديد — ‎%1$s‎!</string>
+    <string name="game_play_again">العب مجددًا</string>
+    <string name="game_main_menu">القائمة الرئيسية</string>
+    <string name="dialog_exit_title">الخروج من هذه اللعبة؟</string>
+    <string name="dialog_exit_message">ستفقد لعبتك غير المكتملة.</string>
+    <string name="dialog_action_confirm">خروج</string>
+    <string name="dialog_action_cancel">متابعة اللعب</string>
+    <string name="gceoe_high_scores_title">أفضل النتائج</string>
+    <string name="high_scores_empty">لا توجد نتائج مسجلة</string>
+    <string name="high_scores_filter_moves">أقل حركات</string>
+    <string name="high_scores_filter_time">الأسرع</string>
+    <string name="high_scores_filter_date">الأحدث</string>
+    <string name="high_score_card_score_format">‎%1$d · %2$s‎ حركة</string>
+    <string name="high_score_card_rank_format">الترتيب ‎%1$d‎</string>
+    <string name="high_score_card_moves_label">الحركات</string>
+    <string name="high_score_card_time_label">المدة</string>
+    <string name="high_score_card_date_label">تاريخ اللعب</string>
+    <string name="gceoe_about_title">معلومات اللعبة</string>
+    <string name="about_rules_title">دليل اللعب</string>
+    <string name="about_version_format">الإصدار ‎%1$s‎</string>
+    <string name="about_developer_label">من تطوير</string>
+    <string name="about_contact_label">تواصل معنا</string>
+    <string-array name="about_rules">
+        <item>تظهر كل البطاقات مكشوفة لبضع ثوانٍ — احفظ موضع كل بطاقة.</item>
+        <item>بعد ذلك تنقلب كل البطاقات. اضغط على بطاقة لكشفها.</item>
+        <item>ابحث عن البطاقة الأخرى المطابقة للبطاقة التي كشفتها.</item>
+        <item>اختر مستوى الصعوبة: المستويات الأصعب تضع بطاقات أكثر على اللوحة.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,65 @@
+<resources>
+    <string name="back_icon_description">Voltar</string>
+    <string name="gceoe_app_logo_description">Logótipo da aplicação</string>
+    <string name="gceoe_main_menu_tagline">Combine todos os pares</string>
+    <string name="main_menu_play">Começar</string>
+    <string name="main_menu_high_scores">Melhores pontuações</string>
+    <string name="main_menu_about">Informações</string>
+    <string name="main_menu_exit">Sair</string>
+    <string name="menu_start_summary_format">%1$s · tabuleiro de %2$d cartas</string>
+    <string name="menu_scores_moves_label">Jogadas</string>
+    <string name="menu_scores_time_label">Duração</string>
+    <string name="menu_scores_empty">Termine um jogo para definir um recorde</string>
+    <string name="menu_about_subtitle">Informações e regras</string>
+    <string name="menu_exit_subtitle">Sair da aplicação</string>
+    <string name="menu_previous_difficulty">Menor dificuldade</string>
+    <string name="menu_next_difficulty">Maior dificuldade</string>
+    <string name="gceoe_difficulty_title">Escolher dificuldade</string>
+    <string name="difficulty_easy">Fácil</string>
+    <string name="difficulty_medium">Médio</string>
+    <string name="difficulty_hard">Difícil</string>
+    <string name="difficulty_pairs_format">Pares: %1$d</string>
+    <string name="difficulty_cards_pairs_format">%1$d cartas · %2$d pares iguais</string>
+    <string name="game_moves_format">Jogadas: %1$d</string>
+    <string name="game_preview_format">Memorize: %1$d</string>
+    <string name="game_playing_hint">Combine os pares</string>
+    <string name="game_best_none">Recorde: –</string>
+    <string name="game_best_format">Recorde: %1$d jogadas · %2$s</string>
+    <string name="game_time_format">Decorrido: %1$s</string>
+    <string name="game_hud_moves_label">Jogadas</string>
+    <string name="game_hud_time_label">Tempo</string>
+    <string name="game_hud_pairs_label">Pares</string>
+    <string name="game_hud_pairs_format">%1$d de %2$d</string>
+    <string name="game_hud_minimal_format">%1$d jogadas · %2$s</string>
+    <string name="game_finished_title">Tudo combinado!</string>
+    <string name="game_finished_moves_format">Jogadas: %1$d</string>
+    <string name="game_finished_time_format">Concluído em %1$s</string>
+    <string name="game_finished_new_record_format">Novo recorde — %1$s!</string>
+    <string name="game_play_again">Jogar novamente</string>
+    <string name="game_main_menu">Menu principal</string>
+    <string name="dialog_exit_title">Sair deste jogo?</string>
+    <string name="dialog_exit_message">O jogo por concluir será perdido.</string>
+    <string name="dialog_action_confirm">Sair</string>
+    <string name="dialog_action_cancel">Continuar</string>
+    <string name="gceoe_high_scores_title">Melhores pontuações</string>
+    <string name="high_scores_empty">Nenhuma pontuação guardada</string>
+    <string name="high_scores_filter_moves">Menos jogadas</string>
+    <string name="high_scores_filter_time">Mais rápido</string>
+    <string name="high_scores_filter_date">Recentes</string>
+    <string name="high_score_card_score_format">%1$d jogadas · %2$s</string>
+    <string name="high_score_card_rank_format">Posição %1$d</string>
+    <string name="high_score_card_moves_label">Jogadas</string>
+    <string name="high_score_card_time_label">Duração</string>
+    <string name="high_score_card_date_label">Jogado</string>
+    <string name="gceoe_about_title">Informações</string>
+    <string name="about_rules_title">Guia do jogo</string>
+    <string name="about_version_format">Versão %1$s</string>
+    <string name="about_developer_label">Criado por</string>
+    <string name="about_contact_label">Contacto</string>
+    <string-array name="about_rules">
+        <item>Durante alguns segundos, todas as cartas ficam viradas para cima — memorize cada posição.</item>
+        <item>Depois, todas as cartas são ocultadas. Toque numa para a revelar.</item>
+        <item>Procure a outra carta igual à que revelou.</item>
+        <item>Escolha uma dificuldade: os níveis mais difíceis colocam mais cartas no tabuleiro.</item>
+    </string-array>
+</resources>
